@@ -7819,6 +7819,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-27 21:51:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mushroom_0": {
     "criteria": {
       "has_alt_item": "2025-02-27 21:41:13 +0000"
@@ -7879,6 +7885,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-27 21:45:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smelting": {
     "criteria": {
       "has_dough": "2025-02-27 21:39:06 +0000"
@@ -7891,6 +7903,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-27 21:51:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-27 21:51:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bread_from_smoking": {
     "criteria": {
       "has_dough": "2025-02-27 21:39:06 +0000"
@@ -7900,6 +7924,12 @@
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-02-27 21:41:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-27 21:45:27 +0000"
     },
     "done": true
   },
