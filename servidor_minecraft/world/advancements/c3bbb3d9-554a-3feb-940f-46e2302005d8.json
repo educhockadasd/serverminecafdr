@@ -7783,6 +7783,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2025-02-27 21:57:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-27 21:56:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mushroom_14": {
     "criteria": {
       "has_alt_item": "2025-02-27 21:41:13 +0000"
@@ -7816,6 +7828,12 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-02-27 21:41:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-27 21:56:53 +0000"
     },
     "done": true
   },
@@ -7885,6 +7903,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-02-27 21:56:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-02-27 21:45:27 +0000"
@@ -7930,6 +7954,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-02-27 21:45:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 22:01:32 +0000"
     },
     "done": true
   },
