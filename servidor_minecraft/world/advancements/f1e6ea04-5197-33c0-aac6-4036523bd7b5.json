@@ -9101,15 +9101,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+  "globalxp:recipes/misc/xp_block": {
     "criteria": {
-      "has_upgrade_base": "2025-02-27 21:00:00 +0000"
+      "has_emerald": "2025-02-27 20:57:30 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_cyan_double": {
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
-      "has_alt_item": "2025-02-27 21:26:21 +0000"
+      "has_upgrade_base": "2025-02-27 21:00:00 +0000"
     },
     "done": true
   },
@@ -9134,24 +9134,6 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 21:00:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-02-27 21:26:21 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_cyan": {
-    "criteria": {
-      "has_item": "2025-02-27 21:26:21 +0000"
-    },
-    "done": true
-  },
-  "globalxp:recipes/misc/xp_block": {
-    "criteria": {
-      "has_emerald": "2025-02-27 20:57:30 +0000"
     },
     "done": true
   },
@@ -9197,12 +9179,6 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/cyan_petal_block": {
-    "criteria": {
-      "has_item": "2025-02-27 21:26:21 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 21:00:00 +0000"
@@ -9236,12 +9212,6 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 21:00:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_hydroangeas": {
-    "criteria": {
-      "has_item": "2025-02-27 21:26:43 +0000"
     },
     "done": true
   },
@@ -9329,12 +9299,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-02-27 21:05:42 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 21:00:00 +0000"
@@ -9344,6 +9308,48 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 21:00:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-02-27 21:05:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan_double": {
+    "criteria": {
+      "has_alt_item": "2025-02-27 21:26:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-27 21:26:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-02-27 21:26:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-02-27 21:26:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2025-02-27 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-02-27 21:31:27 +0000"
     },
     "done": true
   },
