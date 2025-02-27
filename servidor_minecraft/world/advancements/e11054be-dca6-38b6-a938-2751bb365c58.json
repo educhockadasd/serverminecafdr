@@ -8001,6 +8001,7 @@
   "tconstruct:smeltery/melter": {
     "criteria": {
       "seared_fuel_tank": "2025-02-27 21:13:30 +0000",
+      "seared_heater": "2025-02-27 21:22:32 +0000",
       "seared_melter": "2025-02-27 21:07:59 +0000"
     },
     "done": false

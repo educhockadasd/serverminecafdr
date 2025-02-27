@@ -7537,6 +7537,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-27 21:21:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-02-27 21:17:54 +0000"
@@ -7618,6 +7624,18 @@
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-02-27 21:18:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-02-27 21:19:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-02-27 21:19:00 +0000"
     },
     "done": true
   },
