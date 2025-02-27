@@ -7698,15 +7698,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-02-27 20:10:52 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/tinker_station": {
     "criteria": {
       "has_item": "2025-02-27 19:56:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-27 20:13:51 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials_and_you": {
     "criteria": {
       "has_item": "2025-02-27 19:56:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-02-27 20:13:51 +0000"
     },
     "done": true
   },
@@ -7719,6 +7737,12 @@
   "tconstruct:recipes/misc/tables/book_substitute": {
     "criteria": {
       "has_item": "2025-02-27 19:56:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2025-02-27 20:10:56 +0000"
     },
     "done": true
   },
@@ -7740,6 +7764,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-02-27 20:10:52 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tool_smith": {
     "criteria": {
       "pickaxe": "2025-02-27 20:05:47 +0000"
@@ -7755,6 +7785,12 @@
   "tconstruct:tools/part_builder": {
     "criteria": {
       "crafted_block": "2025-02-27 19:57:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-02-27 20:10:52 +0000"
     },
     "done": true
   },
