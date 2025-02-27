@@ -7698,6 +7698,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/puny_smelting": {
     "criteria": {
       "has_item": "2025-02-27 20:10:52 +0000"
@@ -7716,9 +7722,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_soul_glass": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials_and_you": {
     "criteria": {
       "has_item": "2025-02-27 19:56:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
     },
     "done": true
   },
@@ -7734,15 +7776,51 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tables/book_substitute": {
     "criteria": {
       "has_item": "2025-02-27 19:56:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/puny_smelting": {
     "criteria": {
       "crafted_book": "2025-02-27 20:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
     },
     "done": true
   },
@@ -7764,9 +7842,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
     "criteria": {
       "has_item": "2025-02-27 20:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
     },
     "done": true
   },
@@ -7775,6 +7877,24 @@
       "pickaxe": "2025-02-27 20:05:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
   },
   "tconstruct:recipes/decorations/tables/part_builder": {
     "criteria": {
@@ -7785,6 +7905,48 @@
   "tconstruct:tools/part_builder": {
     "criteria": {
       "crafted_block": "2025-02-27 19:57:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-27 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_tinted_glass": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
     },
     "done": true
   },
@@ -7800,9 +7962,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tinker_station": {
     "criteria": {
       "crafted_block": "2025-02-27 20:01:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2025-02-27 20:28:07 +0000"
     },
     "done": true
   },
