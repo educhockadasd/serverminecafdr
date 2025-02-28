@@ -1408,6 +1408,7 @@
       "minecraft:skeleton": "2025-02-20 22:50:23 +0000",
       "minecraft:spider": "2025-02-20 22:50:58 +0000",
       "minecraft:creeper": "2025-02-26 23:17:48 +0000",
+      "minecraft:slime": "2025-02-28 04:22:44 +0000",
       "minecraft:witch": "2025-02-20 22:36:00 +0000",
       "minecraft:cave_spider": "2025-02-26 02:08:41 +0000",
       "minecraft:zombie": "2025-02-20 02:37:44 +0000",
@@ -5316,7 +5317,8 @@
       "rock": "2025-02-24 21:50:39 +0000",
       "slimesteel": "2025-02-26 19:40:01 +0000",
       "hepatizon": "2025-02-26 19:40:01 +0000",
-      "pig_iron": "2025-02-24 21:50:39 +0000"
+      "pig_iron": "2025-02-24 21:50:39 +0000",
+      "iron": "2025-02-28 03:52:19 +0000"
     },
     "done": false
   },
@@ -8081,10 +8083,11 @@
       "seared_fuel_tank": "2025-02-27 21:13:30 +0000",
       "seared_heater": "2025-02-27 21:22:32 +0000",
       "seared_basin": "2025-02-28 02:42:58 +0000",
+      "seared_table": "2025-02-28 03:48:41 +0000",
       "seared_faucet": "2025-02-28 02:43:02 +0000",
       "seared_melter": "2025-02-27 21:07:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
@@ -8245,6 +8248,108 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-02-28 03:24:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-02-28 03:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-28 03:51:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-02-28 03:55:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2025-02-28 04:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-28 04:15:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-28 04:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-28 04:15:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-02-28 04:22:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-28 04:15:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2025-02-28 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2025-02-28 04:31:33 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
     },
     "done": true
   },

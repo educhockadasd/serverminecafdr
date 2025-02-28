@@ -937,3 +937,160 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [28Feb2025 03:43:41.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
 [28Feb2025 03:43:41.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
 [28Feb2025 03:43:46.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:44:21.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:44:42.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:44:47.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:44:51.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:45:15.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[28Feb2025 03:45:32.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:47:06.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:47:11.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:47:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:47:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:49:18.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:49:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to NegritoV]
+[28Feb2025 03:49:26.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 10409.420000, 70.000000, 5399.330000]
+[28Feb2025 03:49:29.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to NegritoV]
+[28Feb2025 03:49:36.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:49:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:49:48.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:49:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 10409.420000, 70.000000, 5399.330000]
+[28Feb2025 03:49:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[28Feb2025 03:50:01.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:50:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 10432.560000, 59.000000, 5456.640000]
+[28Feb2025 03:50:47.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:50:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to NegritoV]
+[28Feb2025 03:50:55.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:50:56.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:50:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:50:57.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:50:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:51:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:51:02.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:51:02.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:51:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:51:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:51:03.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:51:07.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 1455.200000, 58.250000, 727.280000]
+[28Feb2025 03:51:11.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
+[28Feb2025 03:51:12.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[28Feb2025 03:51:14.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:53:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:53:36.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:53:56.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock has made the advancement [The Noble Drop]
+[28Feb2025 03:54:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
+[28Feb2025 03:56:12.809] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[28Feb2025 03:56:14.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:56:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:56:24.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Who is Cutting Onions?]
+[28Feb2025 03:57:35.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:58:18.364] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean took 120 ms
+[28Feb2025 03:58:22.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to 11107.500000, 110.000000, 5060.500000]
+[28Feb2025 03:58:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
+[28Feb2025 03:58:56.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[28Feb2025 03:58:59.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:59:36.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1212, y=35, z=743} BlockPos{x=1212, y=35, z=744}
+[28Feb2025 04:01:58.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[28Feb2025 04:02:07.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:03:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied enchantment Efficiency V to LaloChock's item]
+[28Feb2025 04:03:25.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:03:28.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to NegritoV]
+[28Feb2025 04:04:23.631] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1392}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.633] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=89, z=1393}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.633] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1393}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.633] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=91, z=1393}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.635] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=88, z=1394}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.636] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=89, z=1394}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.636] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1394}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.636] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=91, z=1394}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.637] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=88, z=1395}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.638] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=89, z=1395}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.638] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1395}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.638] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=91, z=1395}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.639] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=88, z=1396}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.640] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=89, z=1396}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.640] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1396}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.641] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=91, z=1396}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.642] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=88, z=1397}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.642] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=89, z=1397}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.643] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1397}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.643] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=91, z=1397}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.644] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=88, z=1398}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.645] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=89, z=1398}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.645] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1398}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.646] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=89, z=1399}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:23.646] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [95, 87], pos: MutableBlockPos{x=1520, y=90, z=1399}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:31.493] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [114, 86], pos: MutableBlockPos{x=1824, y=89, z=1382}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:31.494] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [114, 86], pos: MutableBlockPos{x=1824, y=90, z=1382}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:31.494] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [114, 86], pos: MutableBlockPos{x=1824, y=89, z=1383}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:31.494] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [114, 86], pos: MutableBlockPos{x=1824, y=90, z=1383}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:31.495] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [114, 86], pos: MutableBlockPos{x=1824, y=90, z=1384}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[28Feb2025 04:04:41.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[28Feb2025 04:04:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:05:01.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:05:17.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:05:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:05:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:06:26.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:06:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:06:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied enchantment Silk Touch to LaloChock's item]
+[28Feb2025 04:06:59.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:06:59.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1983, y=30, z=1433} BlockPos{x=1983, y=29, z=1432}
+[28Feb2025 04:07:01.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=31, z=1437} BlockPos{x=1983, y=30, z=1438}
+[28Feb2025 04:07:01.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1982, y=31, z=1437} BlockPos{x=1983, y=30, z=1438}
+[28Feb2025 04:07:03.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1979, y=30, z=1437} BlockPos{x=1978, y=30, z=1436}
+[28Feb2025 04:07:04.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1979, y=30, z=1437} BlockPos{x=1978, y=30, z=1436}
+[28Feb2025 04:07:04.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1979, y=30, z=1437} BlockPos{x=1978, y=30, z=1436}
+[28Feb2025 04:07:04.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1979, y=30, z=1437} BlockPos{x=1978, y=30, z=1436}
+[28Feb2025 04:07:04.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1979, y=30, z=1437} BlockPos{x=1978, y=30, z=1436}
+[28Feb2025 04:07:10.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:07:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:08:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:08:58.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:09:07.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[28Feb2025 04:09:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[28Feb2025 04:09:45.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.225.136.82:40333] logged in with entity id 36478 at (10434.017833446302, 67.0, 5454.698468599867)
+[28Feb2025 04:09:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[28Feb2025 04:10:24.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1975, y=15, z=1668} BlockPos{x=1973, y=14, z=1668}
+[28Feb2025 04:10:24.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1975, y=15, z=1668} BlockPos{x=1973, y=14, z=1668}
+[28Feb2025 04:10:24.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1975, y=15, z=1668} BlockPos{x=1973, y=14, z=1668}
+[28Feb2025 04:10:49.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[28Feb2025 04:10:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[28Feb2025 04:12:42.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.225.136.82:59703] logged in with entity id 38291 at (10434.017833446302, 67.0, 5454.698468599867)
+[28Feb2025 04:12:42.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[28Feb2025 04:14:15.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:14:23.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:15:04.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to NegritoV]
+[28Feb2025 04:15:17.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to Dedman95]
+[28Feb2025 04:15:19.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:15:22.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:15:29.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV burned to death
+[28Feb2025 04:15:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported NegritoV to Dedman95]
+[28Feb2025 04:15:39.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:16:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:16:08.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1754, y=16, z=1694} BlockPos{x=1755, y=15, z=1694}
+[28Feb2025 04:16:08.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1754, y=16, z=1694} BlockPos{x=1755, y=15, z=1694}
+[28Feb2025 04:16:08.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1753, y=16, z=1694} BlockPos{x=1755, y=15, z=1694}
+[28Feb2025 04:16:08.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1752, y=16, z=1694} BlockPos{x=1755, y=15, z=1694}
+[28Feb2025 04:16:50.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to NegritoV]
+[28Feb2025 04:17:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:17:18.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:17:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:17:41.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 04:18:27.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 04:29:20.105] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[28Feb2025 04:31:33.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has reached the goal [Encyclopedia]
+[28Feb2025 04:33:48.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Hot Stuff]
+[28Feb2025 04:33:58.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[28Feb2025 04:33:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
