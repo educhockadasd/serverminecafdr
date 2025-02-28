@@ -711,3 +711,95 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [28Feb2025 02:59:08.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10454, y=64, z=5383} BlockPos{x=10453, y=62, z=5382}
 [28Feb2025 03:03:18.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Timed out
 [28Feb2025 03:03:18.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[28Feb2025 03:06:58.693] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[28Feb2025 03:09:28.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:48555] logged in with entity id 13031 at (10360.820077349646, 64.0, 5412.609016284534)
+[28Feb2025 03:09:28.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[28Feb2025 03:09:31.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to NegritoV]
+[28Feb2025 03:13:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:13:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:13:23.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was fireballed by Ghast
+[28Feb2025 03:13:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:13:46.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:14:55.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:15:01.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:15:13.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:15:17.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:15:25.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [A Pinch of Alpine]
+[28Feb2025 03:15:45.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:15:49.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:18:37.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 moved too quickly! -0.9790607747345348,-10.188594643186818,0.48681308782340693
+[28Feb2025 03:18:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was doomed to fall by Ghast
+[28Feb2025 03:19:22.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 tried to swim in lava
+[28Feb2025 03:20:06.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was fireballed by Ghast
+[28Feb2025 03:20:16.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[28Feb2025 03:20:16.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[28Feb2025 03:21:59.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:22:00.662] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fa6ff45[id=<null>,name=Dedman95,properties={},legacy=false] (/127.225.136.82:47747) lost connection: Disconnected
+[28Feb2025 03:22:02.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:22:07.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[28Feb2025 03:22:08.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.225.136.82:57873] logged in with entity id 18826 at (1294.1469281273603, 49.0, 688.5)
+[28Feb2025 03:22:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[28Feb2025 03:22:33.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[28Feb2025 03:22:33.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[28Feb2025 03:22:51.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:47711] logged in with entity id 19344 at (1281.161406252965, 49.0, 682.671425280371)
+[28Feb2025 03:22:51.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[28Feb2025 03:22:52.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was slain by Hoglin
+[28Feb2025 03:23:16.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 tried to swim in lava
+[28Feb2025 03:23:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:24:24.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:24:29.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:24:42.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:42.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10417, y=68, z=5401} BlockPos{x=1281, y=51, z=689}
+[28Feb2025 03:24:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:24:58.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Hoglin
+[28Feb2025 03:25:17.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:25:28.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV tried to swim in lava
+[28Feb2025 03:25:30.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was fireballed by Ghast
+[28Feb2025 03:26:30.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV moved too quickly! -0.19493432189710802,-11.043331777419795,0.08553382152229005
+[28Feb2025 03:26:33.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV tried to swim in lava
+[28Feb2025 03:27:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was shot by Skeleton
+[28Feb2025 03:27:19.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:27:39.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Timed out
+[28Feb2025 03:27:39.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[28Feb2025 03:27:48.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:27:50.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:27:52.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:30:23.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:30:28.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[28Feb2025 03:30:28.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[28Feb2025 03:30:30.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:32:28.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:32:32.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:47.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:49.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:52.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:32:55.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:33:12.629] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mantle:network,carryon:carryonpackets,sophisticatedbackpacks:channel,securitycraft:securitycraft,corgilib:network,toms_storage:main,framework:play,ad_astra:main,curios:main,minecraft:treechop-channel,tconstruct:network,botania:main,framework:handshake,sophisticatedcore:channel,patchouli:main,butcher:butcher,geckolib:main,waystones:network,refurbished_furniture:play] rejected vanilla connections
+[28Feb2025 03:33:12.629] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.225.136.82:59429] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[28Feb2025 03:33:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:33:14.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:33:18.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:33:22.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:33:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:33:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[28Feb2025 03:33:32.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21158367[id=<null>,name=NegritoV,properties={},legacy=false] (/127.30.253.186:55169) lost connection: Disconnected
+[28Feb2025 03:33:41.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[28Feb2025 03:33:43.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:33:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:33:43.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:33:44.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:33:44.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:33:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Summoned new Ghast]
+[28Feb2025 03:33:48.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]

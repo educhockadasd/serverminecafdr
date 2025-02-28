@@ -5998,27 +5998,28 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-02-28 02:58:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2025-02-28 02:56:27 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-02-28 02:56:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "toms_storage:unlock_chest": {
     "criteria": {
-      "has_netherite_scrap": "2025-02-28 02:56:55 +0000"
+      "inv_changed-chest": "2025-02-28 02:56:03 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-28 02:56:03 +0000",
+      "inv_changed-diamond": "2025-02-28 02:56:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-28 02:56:27 +0000"
     },
     "done": true
   },
@@ -6034,39 +6035,9 @@
     },
     "done": true
   },
-  "toms_storage:unlock_chest": {
-    "criteria": {
-      "inv_changed-chest": "2025-02-28 02:56:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-28 02:58:57 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/cheese_bread": {
-    "criteria": {
-      "has_bread": "2025-02-28 02:58:07 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-02-28 02:56:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
-    "criteria": {
-      "has_bread": "2025-02-28 02:58:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-02-28 03:00:40 +0000"
     },
     "done": true
   },
@@ -6088,21 +6059,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-02-28 03:02:32 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-28 02:56:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-02-28 02:58:57 +0000"
     },
     "done": true
   },
@@ -6112,15 +6071,75 @@
     },
     "done": true
   },
-  "botania:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_item": "2025-02-28 03:00:40 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-02-28 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheesecake": {
+    "criteria": {
+      "has_wheat": "2025-02-28 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-28 02:56:55 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2025-02-28 02:58:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-02-28 02:58:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-28 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-28 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-28 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-28 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-28 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-28 03:00:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-02-28 03:00:40 +0000"
     },
     "done": true
   },
@@ -6132,32 +6151,14 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "roasted_mutton_chops": "2025-02-28 03:00:40 +0000"
+      "roasted_mutton_chops": "2025-02-28 03:00:40 +0000",
+      "fried_rice": "2025-02-28 03:23:40 +0000"
     },
     "done": false
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2025-02-28 02:56:03 +0000",
-      "inv_changed-diamond": "2025-02-28 02:56:03 +0000"
-    },
-    "done": true
   },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-02-28 03:00:40 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/cheesecake": {
-    "criteria": {
-      "has_wheat": "2025-02-28 02:56:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-28 02:58:57 +0000"
     },
     "done": true
   },
@@ -6167,9 +6168,105 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_onion": "2025-02-28 02:58:57 +0000"
+      "has_wood_slab": "2025-02-28 03:02:32 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_bricks_wall": {
+    "criteria": {
+      "has_cobbled_limestone": "2025-02-28 03:14:24 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone": {
+    "criteria": {
+      "has_cobbled_limestone": "2025-02-28 03:14:24 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/get_salt": {
+    "criteria": {
+      "salt": "2025-02-28 03:15:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-28 03:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-02-28 03:20:30 +0000"
     },
     "done": true
   },

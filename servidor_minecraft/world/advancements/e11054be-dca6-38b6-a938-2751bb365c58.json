@@ -8152,5 +8152,101 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-02-28 03:00:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_paver_smelting": {
+    "criteria": {
+      "has_item": "2025-02-28 03:00:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab": {
+    "criteria": {
+      "has_item": "2025-02-28 03:00:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-02-28 03:00:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-02-28 03:00:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_crafting": {
+    "criteria": {
+      "has_item": "2025-02-28 03:00:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_the_recipe": "2025-02-28 03:07:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2025-02-28 03:07:38 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-02-28 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-02-28 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-02-28 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-28 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-02-28 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-28 03:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 03:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 03:24:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
