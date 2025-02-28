@@ -1094,3 +1094,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [28Feb2025 04:33:48.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Hot Stuff]
 [28Feb2025 04:33:58.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
 [28Feb2025 04:33:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[28Feb2025 04:42:23.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10465, y=64, z=5375} BlockPos{x=10465, y=62, z=5376}
