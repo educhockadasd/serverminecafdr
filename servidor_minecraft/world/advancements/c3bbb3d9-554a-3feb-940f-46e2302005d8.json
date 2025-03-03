@@ -8360,5 +8360,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "roasted_mutton_chops": "2025-03-03 18:22:47 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-03-03 18:22:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
