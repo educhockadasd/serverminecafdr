@@ -9575,6 +9575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-03 03:26:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_red_ribbons": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
@@ -9722,6 +9728,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_toilet": {
     "criteria": {
       "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-03 03:26:03 +0000"
     },
     "done": true
   },
