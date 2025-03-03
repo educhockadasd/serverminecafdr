@@ -8521,5 +8521,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-03 04:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 04:10:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2025-03-03 04:12:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
