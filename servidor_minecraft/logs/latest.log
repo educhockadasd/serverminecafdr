@@ -647,3 +647,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [03Mar2025 02:36:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [03Mar2025 02:37:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
 [03Mar2025 02:37:10.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 02:38:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has reached the goal [Plate Armor]
+[03Mar2025 02:38:39.095] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[03Mar2025 02:38:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 02:39:32.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 02:40:34.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
+[03Mar2025 02:42:33.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Enderman
+[03Mar2025 02:43:24.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[03Mar2025 02:43:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[03Mar2025 02:43:28.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.179.34.157:54643] logged in with entity id 3338 at (10412.699999988079, 64.0, 5401.968110717466)
+[03Mar2025 02:43:28.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game

@@ -8355,9 +8355,12 @@
   },
   "tconstruct:foundry/plate_armor": {
     "criteria": {
-      "crafted_boots": "2025-03-03 02:34:38 +0000"
+      "crafted_leggings": "2025-03-03 02:37:36 +0000",
+      "crafted_boots": "2025-03-03 02:34:38 +0000",
+      "crafted_helmet": "2025-03-03 02:38:30 +0000",
+      "crafted_chestplate": "2025-03-03 02:35:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
