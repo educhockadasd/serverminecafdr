@@ -667,3 +667,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [03Mar2025 02:57:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied effect Haste to LaloChock]
 [03Mar2025 02:58:34.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
 [03Mar2025 02:58:37.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 02:58:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied effect Haste to LaloChock]
+[03Mar2025 02:59:01.202] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[03Mar2025 03:00:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied effect Haste to LaloChock]
+[03Mar2025 03:07:27.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dedman95) moved wrongly! 0.3094100032976712
+[03Mar2025 03:07:27.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dedman95) moved wrongly! 0.2765148781854805
+[03Mar2025 03:07:27.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dedman95) moved wrongly! 0.47413578484702157
+[03Mar2025 03:09:18.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[03Mar2025 03:09:18.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[03Mar2025 03:12:31.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has reached the goal [Earthslime Island]
+[03Mar2025 03:12:57.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.179.34.157:36553] logged in with entity id 43476 at (10408.698217275924, 70.0, 5398.614596357156)
+[03Mar2025 03:12:57.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[03Mar2025 03:15:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[03Mar2025 03:15:18.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:15:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[03Mar2025 03:15:56.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:16:27.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[03Mar2025 03:16:32.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:16:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:16:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:00.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:17:05.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:17:14.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:15.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:17:16.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:17:19.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:17:22.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:23.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:17:24.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:17:30.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:17:34.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[03Mar2025 03:18:09.556] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[03Mar2025 03:18:09.556] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[03Mar2025 03:18:28.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:18:35.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:18:38.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:18:47.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:18:51.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:19:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:19:04.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 03:19:55.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 03:20:35.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]

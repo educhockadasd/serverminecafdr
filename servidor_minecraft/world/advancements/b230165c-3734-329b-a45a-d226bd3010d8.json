@@ -5737,6 +5737,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-02-28 02:58:59 +0000",
+      "sugar_cane": "2025-03-03 03:06:59 +0000",
       "wheat": "2025-02-24 21:12:55 +0000",
       "carrot": "2025-02-24 21:12:52 +0000"
     },
@@ -6767,9 +6768,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-03-03 03:09:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-03-03 02:46:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-03-03 03:09:34 +0000"
     },
     "done": true
   },
