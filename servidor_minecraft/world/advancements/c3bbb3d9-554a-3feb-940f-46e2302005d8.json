@@ -52,6 +52,7 @@
       "minecraft:deep_ocean": "2025-02-19 22:50:33 +0000",
       "minecraft:cherry_grove": "2025-02-20 00:10:38 +0000",
       "minecraft:sunflower_plains": "2025-02-19 22:57:38 +0000",
+      "minecraft:bamboo_jungle": "2025-03-03 17:58:47 +0000",
       "minecraft:beach": "2025-02-19 22:09:18 +0000",
       "minecraft:dark_forest": "2025-02-19 23:36:25 +0000",
       "minecraft:mangrove_swamp": "2025-02-19 23:57:54 +0000",
@@ -8320,6 +8321,42 @@
   "tconstruct:recipes/misc/common/slime/sky/slimeball_from_congealed": {
     "criteria": {
       "has_item": "2025-03-03 03:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-03-03 17:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-03-03 17:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-03-03 17:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 17:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-03-03 17:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-03 17:59:11 +0000"
     },
     "done": true
   },

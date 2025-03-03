@@ -3403,6 +3403,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-03-03 17:52:41 +0000",
       "earth": "2025-02-19 23:12:36 +0000"
     },
     "done": false
@@ -5392,6 +5393,30 @@
   "meadow:recipes/cheese_form": {
     "criteria": {
       "has_pine_slab": "2025-02-26 23:01:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-03-03 17:31:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-03-03 17:52:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-03-03 17:52:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-03-03 17:52:41 +0000"
     },
     "done": true
   },

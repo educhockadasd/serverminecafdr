@@ -2664,7 +2664,8 @@
       "minecraft:cave_spider": "2025-02-24 20:57:22 +0000",
       "minecraft:piglin": "2025-02-28 04:10:14 +0000",
       "minecraft:enderman": "2025-02-28 02:59:34 +0000",
-      "minecraft:zombie": "2025-02-20 23:14:14 +0000"
+      "minecraft:zombie": "2025-02-20 23:14:14 +0000",
+      "minecraft:drowned": "2025-03-03 17:36:19 +0000"
     },
     "done": false
   },
@@ -6795,6 +6796,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-03-03 03:54:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-03-03 17:38:27 +0000"
     },
     "done": true
   },
