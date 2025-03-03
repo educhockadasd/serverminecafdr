@@ -1409,6 +1409,7 @@
       "minecraft:spider": "2025-02-20 22:50:58 +0000",
       "minecraft:creeper": "2025-02-26 23:17:48 +0000",
       "minecraft:slime": "2025-02-28 04:22:44 +0000",
+      "minecraft:phantom": "2025-03-03 03:52:38 +0000",
       "minecraft:witch": "2025-02-20 22:36:00 +0000",
       "minecraft:cave_spider": "2025-02-26 02:08:41 +0000",
       "minecraft:zombie": "2025-02-20 02:37:44 +0000",
@@ -8364,21 +8365,15 @@
     },
     "done": true
   },
-  "tconstruct:world/earth_island": {
+  "tconstruct:smeltery/tinkers_anvil": {
     "criteria": {
-      "found_island": "2025-03-03 03:12:31 +0000"
+      "crafted_overworld": "2025-03-03 02:55:02 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
     "criteria": {
-      "has_item": "2025-03-03 03:31:17 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/world/wood/skyroot/door": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:32:29 +0000"
+      "has_item": "2025-03-03 03:01:39 +0000"
     },
     "done": true
   },
@@ -8388,39 +8383,33 @@
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/world/wood/skyroot/fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-03-03 03:19:51 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
-    "criteria": {
-      "has_log": "2025-03-03 03:31:50 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_alt_item": "2025-03-03 03:05:41 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/world/wood/skyroot/button": {
+  "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
-      "has_planks": "2025-03-03 03:32:29 +0000"
+      "has_alt_item": "2025-03-03 03:05:41 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/world/wood/skyroot/pressure_plate": {
+  "tconstruct:world/earth_island": {
     "criteria": {
-      "has_planks": "2025-03-03 03:32:29 +0000"
+      "found_island": "2025-03-03 03:12:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-03-03 03:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-03 03:19:51 +0000"
     },
     "done": true
   },
@@ -8436,45 +8425,21 @@
     },
     "done": true
   },
-  "tconstruct:smeltery/tinkers_anvil": {
-    "criteria": {
-      "crafted_overworld": "2025-03-03 02:55:02 +0000"
-    },
-    "done": true
-  },
   "tconstruct:world/sky_island": {
     "criteria": {
       "found_island": "2025-03-03 03:31:12 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
     "criteria": {
-      "has_log": "2025-03-03 03:31:50 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/world/wood/skyroot/slab": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:32:29 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/slime/sky/crystal_growing": {
-    "criteria": {
-      "has_dirt": "2025-03-03 03:13:22 +0000"
+      "has_item": "2025-03-03 03:31:17 +0000"
     },
     "done": true
   },
   "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-03-03 03:31:17 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/world/wood/skyroot/fence": {
-    "criteria": {
-      "has_planks": "2025-03-03 03:32:29 +0000"
     },
     "done": true
   },
@@ -8490,6 +8455,54 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-03-03 03:31:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-03-03 03:31:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/skyroot/door": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/skyroot/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/skyroot/button": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/world/wood/skyroot/pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/slab": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:32:29 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/world/wood/skyroot/fence": {
+    "criteria": {
+      "has_planks": "2025-03-03 03:32:29 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/world/wood/skyroot/trapdoor": {
     "criteria": {
       "has_planks": "2025-03-03 03:32:29 +0000"
@@ -8499,18 +8512,6 @@
   "tconstruct:recipes/decorations/world/wood/skyroot/sign": {
     "criteria": {
       "has_planks": "2025-03-03 03:32:29 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
-    "criteria": {
-      "has_item": "2025-03-03 03:01:39 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/alchemy_catalyst": {
-    "criteria": {
-      "has_alt_item": "2025-03-03 03:05:41 +0000"
     },
     "done": true
   },

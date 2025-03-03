@@ -9449,21 +9449,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/cloud_pendant": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
     },
     "done": true
   },
@@ -9473,45 +9461,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_black_double": {
-    "criteria": {
-      "has_alt_item": "2025-03-03 03:04:57 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_thinking_hand": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-03-03 03:11:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-03-03 03:11:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_black": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:57 +0000"
     },
     "done": true
   },
@@ -9521,63 +9473,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/black_industrial_lamp": {
-    "criteria": {
-      "has_black_industrial_lamp": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_toaster": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_eerie_mask": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_microwave": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-03-03 03:26:03 +0000"
     },
     "done": true
   },
@@ -9587,45 +9485,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-03-03 03:11:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/cobweb": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_black_industrial_lamp": {
-    "criteria": {
-      "has_small_black_industrial_lamp": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 03:05:03 +0000"
     },
     "done": true
   },
@@ -9635,75 +9497,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_alien_antenna": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
     },
     "done": true
   },
-  "meadow:recipes/window": {
-    "criteria": {
-      "has_glass_pane": "2025-03-03 03:11:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_thick_eyebrows": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/fancy_frame/clear": {
-    "criteria": {
-      "has_item": "2025-03-03 03:11:45 +0000"
     },
     "done": true
   },
@@ -9719,36 +9521,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-03-03 03:26:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/cosmetic_cat_ears": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
@@ -9758,18 +9530,6 @@
   "botania:recipes/misc/cosmetic_polka_dotted_bows": {
     "criteria": {
       "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_bath": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
     },
     "done": true
   },
@@ -9803,6 +9563,318 @@
     },
     "done": true
   },
+  "botania:recipes/misc/cosmetic_hyper_plus": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_ancient_mask": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_red_glasses": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_botanist_emblem": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_eyepatch": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_engineer_goggles": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_anaglyph_glasses": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_four_leaf_clover": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_tiny_potato_mask": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_pink_flower_bud": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_devil_tail": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_lusitanic_shield": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_wicked_eyepatch": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_devil_horns": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_black_tie": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_groucho_glasses": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/cosmetic_puffy_scarf": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_alt_item": "2025-03-03 03:04:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_black": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/black_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_petal_block": {
+    "criteria": {
+      "has_item": "2025-03-03 03:04:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_industrial_lamp": {
+    "criteria": {
+      "has_black_industrial_lamp": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_black_industrial_lamp": {
+    "criteria": {
+      "has_small_black_industrial_lamp": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-03-03 03:05:03 +0000"
@@ -9812,18 +9884,6 @@
   "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_hyper_plus": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/punji": {
-    "criteria": {
-      "has_item": "2025-03-03 03:19:49 +0000"
     },
     "done": true
   },
@@ -9869,27 +9929,9 @@
     },
     "done": true
   },
-  "meadow:recipes/climbing_rope_topmount": {
-    "criteria": {
-      "has_lead": "2025-03-03 03:05:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_ancient_mask": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_red_glasses": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
     },
     "done": true
   },
@@ -9899,39 +9941,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/cosmetic_botanist_emblem": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_eyepatch": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_engineer_goggles": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/black_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_anaglyph_glasses": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
     },
     "done": true
   },
@@ -9950,24 +9962,6 @@
   "refurbished_furniture:recipes/decorations/black_toilet": {
     "criteria": {
       "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-03-03 03:11:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_four_leaf_clover": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-03-03 03:11:45 +0000"
     },
     "done": true
   },
@@ -10007,21 +10001,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/cosmetic_tiny_potato_mask": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_pink_flower_bud": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
     },
     "done": true
   },
@@ -10031,15 +10013,81 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/black_petal_block": {
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
     "criteria": {
-      "has_item": "2025-03-03 03:04:57 +0000"
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/cosmetic_devil_tail": {
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
+      "has_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-03 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2025-03-03 03:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/window": {
+    "criteria": {
+      "has_glass_pane": "2025-03-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/fancy_frame/clear": {
+    "criteria": {
+      "has_item": "2025-03-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-03 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-03 03:11:45 +0000"
     },
     "done": true
   },
@@ -10061,21 +10109,9 @@
     },
     "done": true
   },
-  "botania:recipes/misc/cosmetic_lusitanic_shield": {
+  "tconstruct:recipes/decorations/gadgets/punji": {
     "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_wicked_eyepatch": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
+      "has_item": "2025-03-03 03:19:49 +0000"
     },
     "done": true
   },
@@ -10085,39 +10121,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-03-03 03:19:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_devil_horns": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_black_tie": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
     },
     "done": true
   },
@@ -10127,21 +10133,15 @@
     },
     "done": true
   },
-  "botania:recipes/misc/cosmetic_groucho_glasses": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
+      "has_rose_bush": "2025-03-03 03:26:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
-      "has_needed_dye": "2025-03-03 03:05:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/cosmetic_puffy_scarf": {
-    "criteria": {
-      "has_item": "2025-03-03 03:04:11 +0000"
+      "has_rose_bush": "2025-03-03 03:26:03 +0000"
     },
     "done": true
   },

@@ -6768,21 +6768,33 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/brewery": {
-    "criteria": {
-      "has_alt_item": "2025-03-03 03:09:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-03-03 02:46:12 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-03-03 03:09:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
       "has_alt_item": "2025-03-03 03:09:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-03 03:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-03 03:54:27 +0000"
     },
     "done": true
   },
