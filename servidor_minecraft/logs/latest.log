@@ -677,3 +677,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [03Mar2025 18:00:21.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
 [03Mar2025 18:01:43.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
 [03Mar2025 18:01:43.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[03Mar2025 18:07:20.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@631c71b6[id=<null>,name=Dedman95,properties={},legacy=false] (/127.176.14.178:54699) lost connection: Disconnected
+[03Mar2025 18:07:28.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.176.14.178:39213] logged in with entity id 10450 at (10437.45367631097, 57.0, 5448.498084833268)
+[03Mar2025 18:07:28.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[03Mar2025 18:07:58.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Timed out
+[03Mar2025 18:07:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[03Mar2025 18:08:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis was slain by Spider
+[03Mar2025 18:09:51.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.176.14.178:38437] logged in with entity id 11079 at (10437.45367631097, 57.0, 5448.498084833268)
+[03Mar2025 18:09:51.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[03Mar2025 18:13:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Mar2025 18:13:17.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: uasgdyagsd<--[HERE]

@@ -5408,6 +5408,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-03 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-03 18:01:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-03-03 17:52:41 +0000"
@@ -5417,6 +5429,12 @@
   "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-03-03 17:52:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-03 18:10:08 +0000"
     },
     "done": true
   },
