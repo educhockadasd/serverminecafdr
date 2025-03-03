@@ -657,3 +657,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [03Mar2025 02:43:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
 [03Mar2025 02:43:28.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.179.34.157:54643] logged in with entity id 3338 at (10412.699999988079, 64.0, 5401.968110717466)
 [03Mar2025 02:43:28.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[03Mar2025 02:52:22.180] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[03Mar2025 02:52:28.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoyoXF[/127.127.222.176:60391] logged in with entity id 5008 at (10521.614475389291, 111.9, 5524.227827908845)
+[03Mar2025 02:52:28.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF joined the game
+[03Mar2025 02:52:52.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10411, y=57, z=5398} BlockPos{x=10410, y=61, z=5397}
+[03Mar2025 02:52:52.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10411, y=57, z=5398} BlockPos{x=10410, y=61, z=5397}
+[03Mar2025 02:54:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied effect Haste to LaloChock]
+[03Mar2025 02:55:02.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 has reached the goal [Advanced Tool Making]
+[03Mar2025 02:57:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Applied effect Haste to LaloChock]
+[03Mar2025 02:58:34.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 02:58:37.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
