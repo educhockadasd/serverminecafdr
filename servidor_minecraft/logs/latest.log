@@ -654,3 +654,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [03Mar2025 17:13:59.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.179.34.157:33453] logged in with entity id 104 at (10392.374299294752, 65.0, 5390.597345034681)
 [03Mar2025 17:13:59.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
 [03Mar2025 17:22:49.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[03Mar2025 17:22:52.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:25:46.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:33153] logged in with entity id 2086 at (10529.5, 63.875, 5364.5)
+[03Mar2025 17:25:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[03Mar2025 17:25:50.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:25:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:26:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:26:10.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:26:45.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:26:46.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:26:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:26:56.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:27:11.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:27:12.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:27:21.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:27:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:27:32.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:27:33.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:27:47.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:27:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:28:07.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:28:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:28:31.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Creative Mode]
+[03Mar2025 17:28:46.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LaloChock lost connection: Disconnected
+[03Mar2025 17:28:46.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock left the game
+[03Mar2025 17:28:52.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LaloChock[/127.179.34.157:59491] logged in with entity id 3086 at (10352.786797383154, 63.9375, 5425.603605726663)
+[03Mar2025 17:28:52.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LaloChock joined the game
+[03Mar2025 17:29:11.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[03Mar2025 17:29:26.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dreaddis[/127.184.237.100:50251] logged in with entity id 3300 at (10327.699999988079, 108.0, 5361.677529316726)
+[03Mar2025 17:29:26.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dreaddis joined the game
+[03Mar2025 17:30:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[03Mar2025 17:30:07.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to dreaddis]
+[03Mar2025 17:30:10.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
