@@ -8281,21 +8281,21 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tools/common/slime/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-02-28 04:22:48 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-02-28 04:26:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-28 04:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-28 04:15:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
     },
     "done": true
   },
@@ -8304,12 +8304,6 @@
       "earth": "2025-02-28 04:22:48 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-02-28 04:15:10 +0000"
-    },
-    "done": true
   },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
@@ -8341,17 +8335,29 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-28 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-28 04:26:22 +0000"
+    },
+    "done": true
+  },
   "tconstruct:foundry/encyclopedia": {
     "criteria": {
       "crafted_book": "2025-02-28 04:31:33 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+  "tconstruct:foundry/plate_armor": {
     "criteria": {
-      "has_slime_ball": "2025-02-28 04:22:48 +0000"
+      "crafted_boots": "2025-03-03 02:34:38 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
