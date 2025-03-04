@@ -696,3 +696,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [04Mar2025 01:14:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
 [04Mar2025 01:16:10.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
 [04Mar2025 01:16:10.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[04Mar2025 01:18:29.740] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ec97378[id=<null>,name=Dedman95,properties={},legacy=false] (/127.176.14.178:56607) lost connection: Disconnected
+[04Mar2025 01:18:37.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.176.14.178:37657] logged in with entity id 45111 at (10433.908408005394, 67.0, 5453.302162782038)
+[04Mar2025 01:18:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[04Mar2025 01:18:38.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10681, y=68, z=5608} BlockPos{x=10682, y=68, z=5609}
+[04Mar2025 01:18:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was shot by Skeleton
+[04Mar2025 01:19:51.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10680, y=69, z=5606} BlockPos{x=10679, y=67, z=5606}
+[04Mar2025 01:19:51.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10680, y=69, z=5606} BlockPos{x=10679, y=67, z=5606}
+[04Mar2025 01:19:51.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10680, y=69, z=5605} BlockPos{x=10681, y=67, z=5605}
+[04Mar2025 01:19:52.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10681, y=68, z=5603} BlockPos{x=10682, y=67, z=5602}
+[04Mar2025 01:20:20.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9882, y=68, z=5367} BlockPos{x=9883, y=66, z=5367}
+[04Mar2025 01:20:21.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9883, y=68, z=5366} BlockPos{x=9884, y=66, z=5366}
+[04Mar2025 01:21:30.387] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[04Mar2025 01:21:30.388] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[04Mar2025 01:31:06.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Timed out
+[04Mar2025 01:31:06.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[04Mar2025 01:31:06.925] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Mar2025 01:32:56.743] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[04Mar2025 01:42:23.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NegritoV[/127.30.253.186:55727] logged in with entity id 59208 at (10525.94184273254, 62.9375, 5365.479533098864)
+[04Mar2025 01:42:23.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV joined the game
+[04Mar2025 01:42:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoyoXF> lukas eri weon
+[04Mar2025 01:42:45.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoyoXF> con cariño
+[04Mar2025 01:43:56.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/59351, l='ServerLevel[world]', x=9053.19, y=63.00, z=6570.81] died, message: 'Nitwit was slain by Zombie'
+[04Mar2025 01:45:59.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV has made the advancement [Cover Me with Diamonds]
+[04Mar2025 01:49:54.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 was burnt to a crisp whilst fighting Blaze
+[04Mar2025 01:51:32.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[04Mar2025 01:51:32.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[04Mar2025 01:53:04.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV fell from a high place
+[04Mar2025 01:53:16.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.176.14.178:38991] logged in with entity id 65676 at (10432.451666976465, 67.0, 5458.615379910527)
+[04Mar2025 01:53:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[04Mar2025 01:53:17.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoyoXF was burnt to a crisp whilst fighting Blaze
+[04Mar2025 01:54:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was slain by Hoglin
+[04Mar2025 01:55:00.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NegritoV lost connection: Disconnected
+[04Mar2025 01:55:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV left the game
+[04Mar2025 01:55:21.507] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Dedman95" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=10437, y=66, z=5460}] too quickly!
+[04Mar2025 01:56:06.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1268, y=29, z=667} BlockPos{x=1268, y=29, z=666}
+[04Mar2025 01:56:14.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1268, y=22, z=654} BlockPos{x=1268, y=20, z=656}
+[04Mar2025 01:56:14.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1268, y=22, z=654} BlockPos{x=1268, y=21, z=654}
+[04Mar2025 01:56:14.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1268, y=22, z=654} BlockPos{x=1268, y=21, z=654}
+[04Mar2025 01:56:14.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1268, y=22, z=654} BlockPos{x=1268, y=21, z=654}
