@@ -8539,5 +8539,11 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_the_recipe": "2025-03-04 00:27:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
