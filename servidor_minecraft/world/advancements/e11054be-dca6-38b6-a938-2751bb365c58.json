@@ -8540,6 +8540,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-03-04 00:48:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_the_recipe": "2025-03-04 00:27:16 +0000"
