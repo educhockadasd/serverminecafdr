@@ -8540,15 +8540,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_the_recipe": "2025-03-04 00:27:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/structure": {
     "criteria": {
       "open_smeltery": "2025-03-04 00:48:03 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+  "tconstruct:recipes/misc/common/materials/slimesteel_ingot_from_block": {
     "criteria": {
-      "has_the_recipe": "2025-03-04 00:27:16 +0000"
+      "has_item": "2025-03-04 00:58:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/slimesteel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-04 00:58:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/slimesteel_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-03-04 00:58:37 +0000"
     },
     "done": true
   },

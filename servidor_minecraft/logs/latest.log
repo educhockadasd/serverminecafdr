@@ -683,3 +683,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [04Mar2025 00:55:37.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Teleported LaloChock to Dedman95]
 [04Mar2025 00:55:45.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
 [04Mar2025 00:55:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Survival Mode]
+[04Mar2025 00:59:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LaloChock: Set own game mode to Spectator Mode]
+[04Mar2025 00:59:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 00:59:37.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdasd<--[HERE]
+[04Mar2025 01:05:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NegritoV was blown up by Creeper
+[04Mar2025 01:13:03.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[04Mar2025 01:13:03.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
+[04Mar2025 01:14:04.680] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6772a266[id=<null>,name=Dedman95,properties={},legacy=false] (/127.176.14.178:43841): Took too long to log in
+[04Mar2025 01:14:04.681] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6772a266[id=<null>,name=Dedman95,properties={},legacy=false] (/127.176.14.178:43841) lost connection: Took too long to log in
+[04Mar2025 01:14:04.733] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Mar2025 01:14:47.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dedman95[/127.176.14.178:54861] logged in with entity id 39628 at (10433.908408005394, 67.0, 5453.302162782038)
+[04Mar2025 01:14:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 joined the game
+[04Mar2025 01:16:10.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedman95 lost connection: Disconnected
+[04Mar2025 01:16:10.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedman95 left the game
