@@ -7219,6 +7219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-04 00:34:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-03-04 00:25:49 +0000"
@@ -7276,6 +7282,12 @@
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-03-04 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-04 00:34:16 +0000"
     },
     "done": true
   },

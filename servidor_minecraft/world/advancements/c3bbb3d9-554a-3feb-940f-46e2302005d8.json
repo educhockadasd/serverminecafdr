@@ -6081,9 +6081,10 @@
       "minecraft:crimson_forest": "2025-02-28 03:26:00 +0000",
       "minecraft:nether_wastes": "2025-02-24 21:02:08 +0000",
       "minecraft:soul_sand_valley": "2025-02-28 03:27:25 +0000",
-      "minecraft:basalt_deltas": "2025-02-28 04:03:57 +0000"
+      "minecraft:basalt_deltas": "2025-02-28 04:03:57 +0000",
+      "minecraft:warped_forest": "2025-03-04 00:32:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -8406,6 +8407,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-03-04 00:40:52 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/drain": {
     "criteria": {
       "has_item": "2025-03-04 00:23:49 +0000"
@@ -8418,6 +8425,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-04 00:35:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/lantern": {
     "criteria": {
       "has_item": "2025-03-04 00:23:49 +0000"
@@ -8427,6 +8440,18 @@
   "tconstruct:recipes/redstone/smeltery/seared/channel": {
     "criteria": {
       "has_item": "2025-03-04 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-04 00:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-04 00:34:08 +0000"
     },
     "done": true
   },
@@ -8487,6 +8512,12 @@
   "tconstruct:recipes/tools/tools/building/flint_and_brick": {
     "criteria": {
       "has_seared": "2025-03-04 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-04 00:40:52 +0000"
     },
     "done": true
   },
