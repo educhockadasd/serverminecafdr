@@ -8629,5 +8629,83 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-03-04 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_wall": {
+    "criteria": {
+      "has_item": "2025-03-04 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 02:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 02:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 02:06:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_slab": {
+    "criteria": {
+      "has_item": "2025-03-04 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-03-04 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_stairs": {
+    "criteria": {
+      "has_item": "2025-03-04 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_cobble_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2025-03-04 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 02:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 02:06:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_smelting": {
+    "criteria": {
+      "has_item": "2025-03-04 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 02:06:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

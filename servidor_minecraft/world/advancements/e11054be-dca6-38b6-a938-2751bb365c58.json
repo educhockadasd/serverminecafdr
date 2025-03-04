@@ -8576,5 +8576,11 @@
     },
     "done": false
   },
+  "tconstruct:world/tinkers_gadgetry": {
+    "criteria": {
+      "crafted_book": "2025-03-04 01:55:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
